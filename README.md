@@ -23,7 +23,7 @@ See [this video](https://youtu.be/21nbRGpy3xM) for an overview and some demos.
 
 To install:
 
-`brew tap nsoperations/formulas && brew install nsoperations/formulas/carthage`
+`brew tap thepragmaticart/formulas && brew install thepragmaticart/formulas/carthage`
 
 See [Installing Carthage](#installing-carthage)
 
